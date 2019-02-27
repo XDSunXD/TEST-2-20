@@ -1,0 +1,5 @@
+﻿  TEST-2-20.cpp
+d:\visual studio 2017\projects\test-2-20\test-2-20\test-2-20.cpp(7): error C2059: 语法错误:“<”
+d:\visual studio 2017\projects\test-2-20\test-2-20\test-2-20.cpp(9): error C2143: 语法错误: 缺少“;”(在“{”的前面)
+d:\visual studio 2017\projects\test-2-20\test-2-20\test-2-20.cpp(9): error C2447: “{”: 缺少函数标题(是否是老式的形式表?)
+d:\visual studio 2017\projects\test-2-20\test-2-20\test-2-20.cpp(35): error C2059: 语法错误:“<”
